@@ -1,0 +1,156 @@
+[
+  {
+    "entry": "E1",
+    "meet": "M1",
+    "race": "R1",
+    "age_group": "U14",
+    "boat": "B1",
+    "members": "A+B",
+    "sec": "132",
+    "adjudication": "有效",
+    "rev": "1"
+  },
+  {
+    "entry": "E2",
+    "meet": "M1",
+    "race": "R1",
+    "age_group": "U14",
+    "boat": "B2",
+    "members": "C+D",
+    "sec": "133",
+    "adjudication": "有效",
+    "rev": "1"
+  },
+  {
+    "entry": "E3",
+    "meet": "M1",
+    "race": "R1",
+    "age_group": "U16",
+    "boat": "B3",
+    "members": "E+F",
+    "sec": "130",
+    "adjudication": "合组计时",
+    "rev": "1"
+  },
+  {
+    "entry": "E4",
+    "meet": "M1",
+    "race": "R2",
+    "age_group": "U14",
+    "boat": "B4",
+    "members": "A",
+    "sec": "75",
+    "adjudication": "有效",
+    "rev": "1"
+  },
+  {
+    "entry": "E5",
+    "meet": "M2",
+    "race": "R1",
+    "age_group": "U14",
+    "boat": "B5",
+    "members": "C+D",
+    "sec": "130",
+    "adjudication": "有效",
+    "rev": "1"
+  },
+  {
+    "entry": "E6",
+    "meet": "M2",
+    "race": "R1",
+    "age_group": "U14",
+    "boat": "B6",
+    "members": "A+B",
+    "sec": "131",
+    "adjudication": "有效",
+    "rev": "1"
+  },
+  {
+    "entry": "E7",
+    "meet": "M2",
+    "race": "R2",
+    "age_group": "U14",
+    "boat": "B7",
+    "members": "C",
+    "sec": "?",
+    "adjudication": "未出发",
+    "rev": "1"
+  },
+  {
+    "entry": "E8",
+    "meet": "M2",
+    "race": "R2",
+    "age_group": "U14",
+    "boat": "B8",
+    "members": "A",
+    "sec": "74",
+    "adjudication": "有效",
+    "rev": "1"
+  },
+  {
+    "entry": "E1",
+    "meet": "M1",
+    "race": "R1",
+    "age_group": "U14",
+    "boat": "B1",
+    "members": "A+B",
+    "sec": "132",
+    "adjudication": "取消资格",
+    "rev": "2"
+  },
+  {
+    "entry": "E3",
+    "meet": "M1",
+    "race": "R1",
+    "age_group": "U14",
+    "boat": "B3",
+    "members": "E+F",
+    "sec": "130",
+    "adjudication": "归属修正",
+    "rev": "2"
+  },
+  {
+    "entry": "E9",
+    "meet": "M2",
+    "race": "R1",
+    "age_group": "U14",
+    "boat": "B9",
+    "members": "G+H",
+    "sec": "131",
+    "adjudication": "有效",
+    "rev": "1"
+  },
+  {
+    "entry": "E10",
+    "meet": "M3",
+    "race": "R1",
+    "age_group": "U14",
+    "boat": "B10",
+    "members": "C+D",
+    "sec": "130",
+    "adjudication": "有效",
+    "rev": "1"
+  },
+  {
+    "entry": "E11",
+    "meet": "M3",
+    "race": "R1",
+    "age_group": "U14",
+    "boat": "B11",
+    "members": "A+B",
+    "sec": "131",
+    "adjudication": "有效",
+    "rev": "1"
+  },
+  {
+    "entry": "E12",
+    "meet": "M3",
+    "race": "R2",
+    "age_group": "U14",
+    "boat": "B12",
+    "members": "C",
+    "sec": "72",
+    "adjudication": "有效",
+    "rev": "1"
+  }
+]

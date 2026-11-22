@@ -1,0 +1,23 @@
+[
+  {
+    "invitation": "I1",
+    "race": "R1",
+    "members": "A+B",
+    "state": "已接受",
+    "protection": "锁定"
+  },
+  {
+    "invitation": "I2",
+    "race": "R2",
+    "members": "A",
+    "state": "待确认",
+    "protection": "?"
+  },
+  {
+    "invitation": "I3",
+    "race": "R1",
+    "members": "C+D",
+    "state": "候补",
+    "protection": "?"
+  }
+]

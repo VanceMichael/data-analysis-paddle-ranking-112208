@@ -1,0 +1,29 @@
+[
+  {
+    "race": "R1",
+    "age_group": "U14",
+    "medal_points": "10+7+5",
+    "valid_meets": "2",
+    "quota": "1",
+    "slot": "S1",
+    "reserve": "G"
+  },
+  {
+    "race": "R1",
+    "age_group": "U16",
+    "medal_points": "10+7+5",
+    "valid_meets": "1",
+    "quota": "1",
+    "slot": "S1",
+    "reserve": "G"
+  },
+  {
+    "race": "R2",
+    "age_group": "U14",
+    "medal_points": "9+6+4",
+    "valid_meets": "1",
+    "quota": "1",
+    "slot": "S1",
+    "reserve": "G"
+  }
+]

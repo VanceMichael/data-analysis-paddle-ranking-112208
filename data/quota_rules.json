@@ -1,0 +1,26 @@
+[
+  {
+    "race": "R1",
+    "age_group": "U14",
+    "best_meets": "2",
+    "tie": "并列顺延",
+    "conflict": "征询",
+    "proof_period": "24"
+  },
+  {
+    "race": "R1",
+    "age_group": "U16",
+    "best_meets": "1",
+    "tie": "并列顺延",
+    "conflict": "征询",
+    "proof_period": "24"
+  },
+  {
+    "race": "R2",
+    "age_group": "U14",
+    "best_meets": "2",
+    "tie": "并列顺延",
+    "conflict": "征询",
+    "proof_period": "12"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "boat": "B1",
+    "member": "B",
+    "candidate": "F",
+    "eligible": "false"
+  },
+  {
+    "boat": "B5",
+    "member": "D",
+    "candidate": "G",
+    "eligible": "true"
+  }
+]
