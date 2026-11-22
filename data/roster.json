@@ -1,0 +1,50 @@
+[
+  {
+    "athlete": "A",
+    "club": "K1",
+    "age_group": "U14",
+    "entrance": "已确认"
+  },
+  {
+    "athlete": "B",
+    "club": "K1",
+    "age_group": "U14",
+    "entrance": "已确认"
+  },
+  {
+    "athlete": "C",
+    "club": "K2",
+    "age_group": "U14",
+    "entrance": "已确认"
+  },
+  {
+    "athlete": "D",
+    "club": "K2",
+    "age_group": "U14",
+    "entrance": "已确认"
+  },
+  {
+    "athlete": "E",
+    "club": "K3",
+    "age_group": "U16",
+    "entrance": "已确认"
+  },
+  {
+    "athlete": "F",
+    "club": "K3",
+    "age_group": "U16",
+    "entrance": "已确认"
+  },
+  {
+    "athlete": "G",
+    "club": "K2",
+    "age_group": "U14",
+    "entrance": "已确认"
+  },
+  {
+    "athlete": "H",
+    "club": "K2",
+    "age_group": "U14",
+    "entrance": "已确认"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "invitation": "I5",
+    "athlete": "G",
+    "at": "25",
+    "reply": "接受"
+  },
+  {
+    "invitation": "I5",
+    "athlete": "H",
+    "at": "26",
+    "reply": "拒绝"
+  },
+  {
+    "invitation": "I4",
+    "athlete": "C",
+    "at": "24",
+    "reply": "接受"
+  },
+  {
+    "invitation": "I1",
+    "athlete": "A",
+    "at": "24",
+    "reply": "接受"
+  },
+  {
+    "invitation": "I1",
+    "athlete": "B",
+    "at": "24",
+    "reply": "接受"
+  }
+]

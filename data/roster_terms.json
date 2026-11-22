@@ -1,0 +1,14 @@
+[
+  {
+    "race": "R1",
+    "suitable_meets": "至少一站同艇",
+    "acceptance": "全员接受",
+    "substitute_policy": "另有确认名单"
+  },
+  {
+    "race": "R2",
+    "suitable_meets": "一站个人",
+    "acceptance": "本人接受",
+    "substitute_policy": "无"
+  }
+]

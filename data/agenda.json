@@ -1,0 +1,26 @@
+[
+  {
+    "version": "1",
+    "race": "R1",
+    "slot": "S1",
+    "start": "9",
+    "end": "10",
+    "state": "已公布"
+  },
+  {
+    "version": "1",
+    "race": "R2",
+    "slot": "S2",
+    "start": "11",
+    "end": "12",
+    "state": "已公布"
+  },
+  {
+    "version": "2",
+    "race": "R2",
+    "slot": "S1",
+    "start": "9",
+    "end": "10",
+    "state": "改时"
+  }
+]

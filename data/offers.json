@@ -19,5 +19,19 @@
     "members": "C+D",
     "state": "候补",
     "protection": "?"
+  },
+  {
+    "invitation": "I4",
+    "race": "R2",
+    "members": "C",
+    "state": "已接受",
+    "protection": "锁定"
+  },
+  {
+    "invitation": "I5",
+    "race": "R1",
+    "members": "G+H",
+    "state": "待接受",
+    "protection": "?"
   }
 ]

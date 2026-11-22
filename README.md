@@ -12,6 +12,10 @@
 - `replacements.json` 记录字段为 `boat`、`member`、`candidate`、`eligible`。
 - `quota_rules.json` 记录字段为 `race`、`age_group`、`best_meets`、`tie`、`conflict`、`proof_period`。
 - `appeals.json` 记录字段为 `entry`、`requested_group`、`confirmed`、`version`。
+- `roster.json` 记录字段为 `athlete`、`club`、`age_group`、`entrance`。
+- `replies.json` 记录字段为 `invitation`、`athlete`、`at`、`reply`。
+- `agenda.json` 记录字段为 `version`、`race`、`slot`、`start`、`end`、`state`。
+- `roster_terms.json` 记录字段为 `race`、`suitable_meets`、`acceptance`、`substitute_policy`。
 
 ## 运行
 
