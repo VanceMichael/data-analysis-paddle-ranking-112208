@@ -1,0 +1,26 @@
+[
+  {
+    "table": "T1",
+    "club": "K1",
+    "race": "R1",
+    "revision": "1",
+    "delivery_at": "24",
+    "state": "送达"
+  },
+  {
+    "table": "T2",
+    "club": "K2",
+    "race": "R1",
+    "revision": "1",
+    "delivery_at": "24",
+    "state": "送达"
+  },
+  {
+    "table": "T3",
+    "club": "K3",
+    "race": "R1",
+    "revision": "1",
+    "delivery_at": "24",
+    "state": "送达"
+  }
+]

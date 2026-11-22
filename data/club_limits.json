@@ -1,0 +1,26 @@
+[
+  {
+    "club": "K1",
+    "race": "R1",
+    "scoring_slots": "1",
+    "final_bonus_limit": "1"
+  },
+  {
+    "club": "K2",
+    "race": "R1",
+    "scoring_slots": "1",
+    "final_bonus_limit": "1"
+  },
+  {
+    "club": "K3",
+    "race": "R1",
+    "scoring_slots": "1",
+    "final_bonus_limit": "1"
+  },
+  {
+    "club": "K2",
+    "race": "R2",
+    "scoring_slots": "2",
+    "final_bonus_limit": "1"
+  }
+]

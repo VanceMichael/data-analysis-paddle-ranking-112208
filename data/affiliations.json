@@ -1,0 +1,56 @@
+[
+  {
+    "athlete": "A",
+    "club": "K1",
+    "from_meet": "M1",
+    "to_meet": "M2"
+  },
+  {
+    "athlete": "A",
+    "club": "K2",
+    "from_meet": "M3",
+    "to_meet": "决赛"
+  },
+  {
+    "athlete": "B",
+    "club": "K1",
+    "from_meet": "M1",
+    "to_meet": "决赛"
+  },
+  {
+    "athlete": "C",
+    "club": "K2",
+    "from_meet": "M1",
+    "to_meet": "决赛"
+  },
+  {
+    "athlete": "D",
+    "club": "K2",
+    "from_meet": "M1",
+    "to_meet": "决赛"
+  },
+  {
+    "athlete": "E",
+    "club": "K3",
+    "from_meet": "M1",
+    "to_meet": "决赛"
+  },
+  {
+    "athlete": "F",
+    "club": "K3",
+    "from_meet": "M1",
+    "to_meet": "决赛"
+  },
+  {
+    "athlete": "G",
+    "club": "K2",
+    "from_meet": "M1",
+    "to_meet": "决赛"
+  },
+  {
+    "athlete": "H",
+    "club": "K2",
+    "from_meet": "M1",
+    "to_meet": "决赛"
+  }
+]

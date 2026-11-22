@@ -16,6 +16,9 @@
 - `replies.json` 记录字段为 `invitation`、`athlete`、`at`、`reply`。
 - `agenda.json` 记录字段为 `version`、`race`、`slot`、`start`、`end`、`state`。
 - `roster_terms.json` 记录字段为 `race`、`suitable_meets`、`acceptance`、`substitute_policy`。
+- `affiliations.json` 记录字段为 `athlete`、`club`、`from_meet`、`to_meet`。
+- `club_limits.json` 记录字段为 `club`、`race`、`scoring_slots`、`final_bonus_limit`。
+- `issued_tables.json` 记录字段为 `table`、`club`、`race`、`revision`、`delivery_at`、`state`。
 
 ## 运行
 
