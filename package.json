@@ -3,11 +3,22 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "bin": {
+    "paddle-ranking": "./src/cli.js"
+  },
   "engines": {
     "node": "22.x"
   },
   "scripts": {
+    "start": "node src/cli.js report",
     "test": "node --test",
-    "data:check": "node --test test/data.test.js"
+    "data:check": "node --test test/data.test.js",
+    "validate": "node src/cli.js validate",
+    "report": "node src/cli.js report",
+    "json": "node src/cli.js json"
   }
 }
